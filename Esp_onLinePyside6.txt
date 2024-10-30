@@ -1,0 +1,4 @@
+https://docs.hektorprofe.net/qt-pyside/conceptos-basicos/aplicacion-base-qapplication/
+
+
+https://doc.qt.io/qtforpython-6/PySide6/QtWidgets/QApplication.html
